@@ -1,0 +1,59 @@
+
+body{font-family: 'Fira Sans', sans-serif;}
+h1{font-size: 50px;}
+.name-highlight{
+    color: #ff5c50e8;
+}
+h3{font-size: 30px;}
+p{font-size: 20px;font-style: italic; text-align: justify; color: blue;}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+section{
+    height: 400px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(0deg, lightSalmon, Tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.CV{
+    background-image: repeating-radial-gradient(rgb(255, 0, 0))
+
+}
+.test{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.test img{
+    width: 80%;
+}
+.Extra{
+
+    padding: 20px;
+    border: 10px blue;
+    background-color: rgb(233, 232, 243);
+    text-align: justify;
+}
+.last{
+    width: 80%;
+    float: center;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.last img{
+    width: 10%;
+}
+h4{font-size: 30px; text-align: center;}
+h5{font-size: small; text-align: center;}
